@@ -20,7 +20,7 @@
 <body>
 
     <div id="div1">
-        <h1> test thiny </h1>
+        <h1> test thingy </h1>
         <p> yeah hi</p>
     </div>
 
